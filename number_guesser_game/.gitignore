@@ -1,0 +1,23 @@
+__pychache__/
+*.py[cod]
+*$py.class
+
+# IDE / Editor files 
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+#Logs / Temporary files
+*.log
+*.tmp
+.cache/
